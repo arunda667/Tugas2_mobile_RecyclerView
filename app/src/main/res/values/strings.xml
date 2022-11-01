@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string-array name="laptop">
+        <item>Laptop1</item>
+        <item>Laptop2</item>
+        <item>Laptop3</item>
+        <item>Laptop4</item>
+        <item>Laptop5</item>
+        <item>Laptop5</item>
+
+    </string-array>
+    <string-array name="star">
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.3</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 75.000/hari</item>
+        <item>Rp. 100.0000/hari</item>
+        <item>Rp. 150.000/hari</item>
+        <item>Rp. 65.000/hari</item>
+        <item>Rp. 95.000/hari</item>
+        <item>Rp. 85.000/hari</item>
+
+    </string-array>
+</resources>
